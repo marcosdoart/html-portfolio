@@ -1,2 +1,2 @@
 # html-portfolio
-Portfólio publico dos meus estudos em html em constante aperfeiçoamento. 
+Portfólio publico dos meus estudos em html, em constante aperfeiçoamento. 
